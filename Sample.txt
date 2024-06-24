@@ -1,10 +1,7 @@
 Hello!!
 Changed in repository
 Changed in notepad
-<<<<<<< HEAD
-
 more changes in note
-=======
 added more from github
 
 
