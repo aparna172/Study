@@ -3,7 +3,7 @@ Changed in repository
 Changed in notepad
 more changes in note
 added more from github
-Changes from vsc
+Changes from vsc2
 changes from github
 
 
